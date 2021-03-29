@@ -17,6 +17,4 @@ Additional info
     1. docker-compose down
     2. docker-compose build
     3. a. docker-compose up -d (without realtime logs) 
-    3. b. docker-compose up (with realtime logs)
-4. Include this in development.rb
-    config.web_console.whitelisted_ips = ["192.0.0.1/2","172.25.0.1/16", "172.0.0.1/2"]
+    3. b. docker-compose up (with realtime logs) 
